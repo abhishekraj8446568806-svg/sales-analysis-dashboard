@@ -1,2 +1,3 @@
-# sales-analysis-dashboard
-Sales analysis project using Excel, SQL, and Power BI to identify trends, KPIs, and business insights.
+# community-health-fund-allocation-analysis
+## 📌 Problem Statement
+Analyze healthcare funding distribution across regions to identify patterns and optimize allocation.
